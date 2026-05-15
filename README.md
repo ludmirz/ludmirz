@@ -10,7 +10,7 @@ Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La Plata
 -  Actualmente estudiando en la universidad.
 -  Enfocada en flujos de desarrollo eficientes, arquitecturas con Docker y lógica de backend.
 -  Disfruto diseñar la lógica de negocio, desde historias de usuario hasta la implementación de sistemas de autenticación seguros.
-
+-  Conocimiento en el diseño y consumo de **APIs REST** para conectar interfaces de usuario con servicios backend y bases de datos.
 ---
 
 ### 🎀 Mis Lenguajes y Tecnologías
