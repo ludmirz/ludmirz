@@ -1,17 +1,23 @@
-## Hi there 👋
-# Soy Ludmila 🌸
+Hi there 👋
+Soy Ludmila 🌸
 
-Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP) y entusiasta del desarrollo de software.
+Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de La Plata (UNLP), con interés en ciberseguridad y desarrollo de software.
 
----
+🌺 Sobre mí . . .
 
-### 🌺 Sobre mí . . .
+* Actualmente estudiando en la universidad.
+* Explorando el mundo de la ciberseguridad, con foco en blue team y respuesta a incidentes — documentando mi aprendizaje en un home lab propio.
+* Enfocada en flujos de desarrollo eficientes, arquitecturas con Docker y lógica de backend.
+* Disfruto diseñar la lógica de negocio, desde historias de usuario hasta la implementación de sistemas de autenticación seguros.
+* Conocimiento en el diseño y consumo de APIs REST para conectar interfaces de usuario con servicios backend y bases de datos.
 
--  Actualmente estudiando en la universidad.
--  Enfocada en flujos de desarrollo eficientes, arquitecturas con Docker y lógica de backend.
--  Disfruto diseñar la lógica de negocio, desde historias de usuario hasta la implementación de sistemas de autenticación seguros.
--  Conocimiento en el diseño y consumo de **APIs REST** para conectar interfaces de usuario con servicios backend y bases de datos.
----
+🔐 Ciberseguridad
+
+Estoy construyendo un home lab virtualizado (Kali Linux + Ubuntu Server) para practicar detección, análisis y respuesta a incidentes, documentado paso a paso en mi repositorio [cybersecurity-blue-team-lab](https://github.com/ludmirz/cybersecurity-blue-team-lab).
+
+Áreas de interés: blue team · SOC · respuesta a incidentes · hardening de sistemas Linux
+
+🎀 Mis Lenguajes y Tecnologías
 
 ### 🎀 Mis Lenguajes y Tecnologías
 
